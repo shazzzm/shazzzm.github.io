@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Robust Risk Minimization Using the Graphical Lasso"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'ICONIP2017'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-70096-0_88'
+citation: 'Millington, Tristan, and Mahesan Niranjan. "Robust Portfolio Risk Minimization Using the Graphical Lasso."International Conference on Neural Information Processing. Springer, Cham, 2017.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+We apply the statistical technique of graphical lasso for inverse covariance estimation of asset price returns in Markowitz portfolio optimisation. Graphical lasso induces sparsity in the inverse covariance matrix, thereby capturing conditional independences between different assets. We show empirical results that not only the resulting minimum risk portfolio is robust, in that the variation in expected returns is reduced when a fraction of the data is assumed missing, but also enables the construction of a financial network in which groups of assets belonging to the same financial sector are linked.
