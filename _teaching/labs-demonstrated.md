@@ -8,5 +8,4 @@ venue: "University of Southampton, ECS"
 location: "Southampton, UK"
 ---
 
-I have demonstrated and marked labs in Algorithmics, Machine Learning, Java Programming, Computer Systems
-and Computational Finance
+I have demonstrated and marked labs in Algorithmics, Machine Learning, Java Programming, Computer Systems, Computational Finance and the Software Engineering Group project
