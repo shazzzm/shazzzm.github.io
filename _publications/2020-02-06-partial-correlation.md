@@ -6,5 +6,5 @@ excerpt: 'Correlation networks have been a popular way of inferring a financial 
 date: 2020-02-06 14:00:00 +0000
 venue: 'Journal of Applied Network Science'
 paperurl: 'https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-0251-z'
-citation: 'Millington, Tristan, and Mahesan Niranjan. "Robust Portfolio Risk Minimization Using the Graphical Lasso."International Conference on Neural Information Processing. Springer, Cham, 2017.'
+citation: 'Millington, T., Niranjan, M. Partial correlation financial networks. Appl Netw Sci 5, 11 (2020). https://doi.org/10.1007/s41109-020-0251-z'
 ---
