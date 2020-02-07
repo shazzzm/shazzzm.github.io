@@ -9,3 +9,4 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/8868437/'
 citation: 'T. Millington and M. Niranjan, "Quantifying Influence in Financial Markets via Partial Correlation Network Inference," 2019 11th International Symposium on Image and Signal Processing and Analysis (ISPA), Dubrovnik, Croatia, 2019, pp. 306-311.
 doi: 10.1109/ISPA.2019.8868437'
 ---
+[Code](https://github.com/shazzzm/financial_network_inference)

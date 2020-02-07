@@ -8,3 +8,5 @@ venue: 'Journal of Applied Network Science'
 paperurl: 'https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-0251-z'
 citation: 'Millington, T., Niranjan, M. Partial correlation financial networks. Appl Netw Sci 5, 11 (2020). https://doi.org/10.1007/s41109-020-0251-z'
 ---
+[Download paper here](http://shazzzm.github.io/files/partial_correlation_finanical_networks.pdf)
+[Code](https://github.com/shazzzm/partial_correlation_financial_networks)
