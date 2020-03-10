@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student at the University of Southampton in Computer Science. My research is in Machine Learning, 
-in network inference and analysis.
+I'm a Research Fellow at the University of Edinburgh in the User Institute. My research is in Machine Learning, in assessing the mood and cognitive state of people from text. Other research interests include the inference and analysis of networks, particularly from financial data.
