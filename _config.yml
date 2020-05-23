@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tristan Millington"
   avatar           : "tristan_photo.jpg"
-  bio              : "PhD Student in Machine Learning"
-  location         : "Southampton"
+  bio              : "Research Fellow"
+  location         : "Edinburgh"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=xi-cE8oAAAAJ&hl=en"
   email            :
@@ -100,13 +100,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0260-0515"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "shazzzm"
+  twitter          : "tmillington1"
   vine             :
   weibo            :
   xing             :
