@@ -16,6 +16,8 @@ ISSN 0378-4371,
 https://doi.org/10.1016/j.physa.2021.126016.'
 ---
 Abstract: Diversified portfolios are a key component of modern portfolio theory, based on the idea of choosing uncorrelated or unrelated stocks to minimize risk. With this in mind, we use networks to study the correlations between stocks and how this varies over time, using daily returns from the S&P500 (US), FTSE100 (UK) and DAX30 (Germany). We study both the full correlation networks and those filtered using the PMFG method. We conclude that stocks tend to become more similar in the full correlation networks during times of market disruption for the US and UK markets — implying that nodes that were once dissimilar (and therefore a good choice for a low risk portfolio) are no longer so, demonstrating the difficulties of choosing a diversified portfolio. Furthermore, these full networks are also more stable by certain measures during these periods of disruption, contrary to expectations. However, these apply less to the PMFGs and the German market.
+
 Keywords: Networks; Finance; Correlation; Portfolio selection
+
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0378437121002880)
 [Code](https://github.com/shazzzm/stability-and-similarity-in-financial-networks)
