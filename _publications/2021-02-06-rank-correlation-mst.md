@@ -1,9 +1,9 @@
 ---
 title: "Construction of minimum spanning trees from financial returns using rank correlation"
 collection: publications
-permalink: /publication/2020-02-06-rank-correlation
+permalink: /publication/2021-02-06-rank-correlation
 excerpt: ""
-date: 2020-05-08 14:00:00 +0000
+date: 2021-05-08 14:00:00 +0000
 venue: 'Physica A: Statistical Mechanics and its Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0378437120309031'
 citation: 'Tristan Millington, Mahesan Niranjan,
